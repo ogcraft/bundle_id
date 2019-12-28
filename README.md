@@ -1,2 +1,3 @@
 # bundle_id
-Returns application Bundle ID on macOs 
+Gets the bundle identifier of an macOS application
+ 
